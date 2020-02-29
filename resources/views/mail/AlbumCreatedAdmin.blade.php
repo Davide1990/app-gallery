@@ -1,0 +1,1 @@
+<h2> Hi {{$admin->name}},the Album {{$album->album_name}} is been created </h2> 
